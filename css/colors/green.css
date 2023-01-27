@@ -1,0 +1,39 @@
+:root {
+  /* --primary-color-1:#11B555;
+  --secondary-color:#43a2dc;
+  --gradient-color-1: 17, 181, 85;
+  --gradient-color-2: 67, 162, 220; */
+
+
+  --primary-color-1:#00c4ff;
+  --secondary-color:#8fff8f;
+
+
+  --gradient-color-1: 97, 255, 97;
+  --gradient-color-2: 143, 255, 143;
+  --gradient-color-3: 0, 194, 195;
+  --gradient-color-4: 0, 196, 255;
+
+
+/* Gradient Colors Semos */
+
+
+/* HEX */
+
+/* color: #63ff63; 
+color:#8fff8f;
+color:#00c2c3;
+color: #00c4ff; */
+
+
+/* RGB */
+
+/* color: rgb(97, 255, 97); 
+color:rgb(143, 255, 143);
+color:rgb(0, 194, 195);
+color: rgb(0, 196, 255); */
+
+
+
+
+}
